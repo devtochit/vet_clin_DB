@@ -16,9 +16,9 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 👤 **Jesse Uzoma**
 
-- GitHub: [@Hedevedup](https://github.com/KaskMIL)
-- Twitter: [@Hedevedup](https://twitter.com/TomasMilanesi)
-- LinkedIn: [Hedevedup](https://www.linkedin.com/in/tomas-milanesi-3427bb185/)
+- GitHub: [@Hedevedup](https://github.com/HedevedUp)
+- Twitter: [@Hedevedup](https://twitter.com/devtochi)
+- LinkedIn: [Hedevedup](https://www.linkedin.com/in/jesse uzoma/)
 
 ## 🤝 Contributing
 
